@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello World :)
+Hello World
+I'm From Indonesia
 
 
 ## 🌐 Socials:
