@@ -1,8 +1,12 @@
 # 💫 About Me:
 Hello World 
+
 I'm a beginner bug hunter :) 
+
 I'm From Indonesia 
+
 Connect with me by following my social media👇👇👇 
+
 and buy me a coffee😋😋😋
 
 ## 🌐 Socials:
